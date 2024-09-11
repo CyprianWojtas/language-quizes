@@ -5,7 +5,7 @@ import Question from "./pages/Question.vue";
 import HomePage from "./pages/HomePage.vue";
 
 export const router = createRouter({
-	history: createWebHistory(),
+	history: createWebHistory("/language-quizes/"),
 	routes:
 	[
 		{ path: "/",                   component: HomePage },
