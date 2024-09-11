@@ -1,1 +1,0 @@
-{"root":["./src/main.ts","./src/router.ts","./src/vite-env.d.ts","./src/modules/quiz.ts","./src/App.vue","./src/components/ListQuestion.vue","./src/pages/HomePage.vue","./src/pages/List.vue","./src/pages/PageNotFound.vue","./src/pages/Question.vue"],"version":"5.6.2"}
