@@ -23,7 +23,7 @@
 }
 nav
 {
-	background-color: #f1f1f1;
+	background-color: #111;
 	padding: 1rem;
 	text-align: center;
 }
@@ -31,6 +31,7 @@ nav
 nav a
 {
 	color: #000;
+	color: #fff;
 }
 .contents
 {

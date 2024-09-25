@@ -98,11 +98,11 @@ button
 
 button.correct
 {
-	background-color: #42b883;
+	background-color: #115b3a;
 }
 button.wrong
 {
-	background-color: #ff4d4f;
+	background-color: #750a0b;
 }
 
 </style>
